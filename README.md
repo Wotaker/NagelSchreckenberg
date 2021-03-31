@@ -1,6 +1,6 @@
 # NagelSchreckenberg
 Nagel-Schreckenberg traffic flow model, with overtaking extension.
-Created by Marcin Kroczek and me.
+Created by Marcin Kroczek and me as a small project at the university.
 
 Our model is an extension of classic Nagel-Schreckenberg CAmodel, that imposes cars no changing their lanes.
 Multi-lane model however, allows cars to change lanes and conduct overtake manoeuvres. Motivation for creating 
